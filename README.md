@@ -49,9 +49,9 @@ This project was my first step into game development. I wanted to create a compl
 (You may need to install the Sound library via the Contribution Manager if it's not already present).
 
 ## Screenshots
-| Главное меню | Экран выбора |
+| Main Menu | Choice |
 |:---:|:---:|
-| ![Меню]<img width="1392" height="782" alt="Novel_Gameplay_Screenshot_Menu" src="https://github.com/user-attachments/assets/0c951575-6a08-4b8d-8d61-5619a838a995" /> | ![Выбор]<img width="1272" height="712" alt="Novel_Gameplay_Screenshot_Choice" src="https://github.com/user-attachments/assets/feab067f-72f9-4945-8609-c6e5aea55dff" /> |
+| <img width="1392" height="782" alt="Novel_Gameplay_Screenshot_Menu" src="https://github.com/user-attachments/assets/0c951575-6a08-4b8d-8d61-5619a838a995" /> | <img width="1272" height="712" alt="Novel_Gameplay_Screenshot_Choice" src="https://github.com/user-attachments/assets/feab067f-72f9-4945-8609-c6e5aea55dff" /> |
 ## Future Improvements
 
     Code Refactoring: Implement a state machine for cleaner scene management.
