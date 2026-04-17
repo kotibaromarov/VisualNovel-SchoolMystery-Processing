@@ -35,3 +35,16 @@ This project was my first step into game development. I wanted to create a compl
 1.  **Clone the repository:**
     ```bash
     git clone https://github.com/kotibaromarov/VisualNovel-SchoolMystery-Processing.git
+    ```
+2.  **Open in Processing:**
+
+        Launch the Processing IDE.
+
+        Click File -> Open... and select the novella.pde file.
+
+3.  **Run the sketch:**
+
+        Click the "Run" button (the play icon) in the top-left corner.
+
+(You may need to install the Sound library via the Contribution Manager if it's not already present).
+
