@@ -38,11 +38,10 @@ This project was my first step into game development. I wanted to create a compl
     ```
 2.  **Open in Processing:**
 
-        Launch the Processing IDE.
+   - Launch the Processing IDE.
+   - Click File -> Open... and select the novella.pde file.
 
-        Click File -> Open... and select the novella.pde file.
-
-3.  **Run the sketch:**
+4.  **Run the sketch:**
 
         Click the "Run" button (the play icon) in the top-left corner.
 
@@ -54,11 +53,11 @@ This project was my first step into game development. I wanted to create a compl
 | <img width="1392" height="782" alt="Novel_Gameplay_Screenshot_Menu" src="https://github.com/user-attachments/assets/0c951575-6a08-4b8d-8d61-5619a838a995" /> | <img width="1272" height="712" alt="Novel_Gameplay_Screenshot_Choice" src="https://github.com/user-attachments/assets/feab067f-72f9-4945-8609-c6e5aea55dff" /> |
 ## Future Improvements
 
-    Code Refactoring: Implement a state machine for cleaner scene management.
+   - Code Refactoring: Implement a state machine for cleaner scene management.
 
-    Save/Load System: Add the ability to save and load the game state.
+   - Save/Load System: Add the ability to save and load the game state.
 
-    More Content: Expand the story and add more branching paths.
+   - More Content: Expand the story and add more branching paths.
 
 ## License
 
