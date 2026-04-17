@@ -43,7 +43,7 @@ This project was my first step into game development. I wanted to create a compl
 
 4.  **Run the sketch:**
 
-        Click the "Run" button (the play icon) in the top-left corner.
+   - Click the "Run" button (the play icon) in the top-left corner.
 
 (You may need to install the Sound library via the Contribution Manager if it's not already present).
 
