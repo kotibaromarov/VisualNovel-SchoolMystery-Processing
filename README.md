@@ -51,8 +51,8 @@ This project was my first step into game development. I wanted to create a compl
 ## Screenshots
 | Главное меню | Экран выбора |
 |:---:|:---:|
-| ![Меню]<img width="1392" height="782" alt="Novel_Gameplay_Screenshot_Menu" src="https://github.com/user-attachments/assets/0c951575-6a08-4b8d-8d61-5619a838a995" />
- | ![Выбор]<img width="1272" height="712" alt="Novel_Gameplay_Screenshot_Choice" src="https://github.com/user-attachments/assets/feab067f-72f9-4945-8609-c6e5aea55dff" />
+| ![Меню](<img width="1392" height="782" alt="Novel_Gameplay_Screenshot_Menu" src="https://github.com/user-attachments/assets/0c951575-6a08-4b8d-8d61-5619a838a995" />)
+ | ![Выбор](<img width="1272" height="712" alt="Novel_Gameplay_Screenshot_Choice" src="https://github.com/user-attachments/assets/feab067f-72f9-4945-8609-c6e5aea55dff" />)
  |
 ## Future Improvements
 
